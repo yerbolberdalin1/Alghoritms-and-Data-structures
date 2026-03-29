@@ -39,7 +39,7 @@ public class Main {
         return arr[n - 1] + sumOfArray(arr, n - 1);
     }
 
-    // Task 3: Sum of powers
+    // Task 3: Sum of powersf
     // Complexity: O(n)
     // Explanation: It calculates and adds n powers, growing linearly with the size of n.
     public static int sumOfPowers(int b, int n) {
